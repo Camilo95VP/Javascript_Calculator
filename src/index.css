@@ -1,24 +1,27 @@
 /*
 app variables
 */
+body{
+  background-image: url("thumb-1920-474157.jpg");
+}
 
 :root {
   /* background colors */
-  --action-key-color: #545454;
-  --action-key-color-hover: #2a2a2a;
-  --calculator-background-color: #696969;
-  --display-background-color: #1d1f1f;
-  --number-key-color: #696969;
-  --number-key-color-hover: #3f3f3f;
-  --submit-key-color: #9600d1;
-  --submit-key-color-hover: #8800aa;
+  --action-key-color: #cacaca07;
+  --action-key-color-hover: #026eb656;
+  --calculator-background-color: #00000000;
+  --display-background-color: #cacaca07;
+  --number-key-color: #fcfcfc05;
+  --number-key-color-hover: #52525236;
+  --submit-key-color: #cacaca07;
+  --submit-key-color-hover: #0488214d;
 
   /* font */
   --main-font: 'Orbitron', sans-serif;
 
   /* font colors */
-  --display-text-color: #7b00e0;
-  --key-text-color: #d3d3d3;
+  --display-text-color: #ffffffb4;
+  --key-text-color: #f8c007cc;
 
   /* font sizes */
   --display-text-size: 4em;
